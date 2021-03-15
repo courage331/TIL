@@ -9,8 +9,6 @@
 >ㅁ
 ---
 
-TIL
-
 [Redis](https://velog.io/@courage331?tag=redis)
 
 [RDBMS, NOSQL](https://velog.io/@courage331/SQL-NOSQL)
