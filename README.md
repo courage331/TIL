@@ -10,3 +10,7 @@
 ---
 
 TIL
+
+[Redis]()
+
+[RDBMS, NOSQL](https://velog.io/@courage331/SQL-NOSQL)
