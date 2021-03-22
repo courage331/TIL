@@ -22,3 +22,5 @@
 [AWS,EC2](https://velog.io/@courage331/AWS-EC2)
 
 [클라우드 서비스 유형](https://velog.io/@courage331/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9C%A0%ED%98%95)
+
+[웹의 동작원리](https://velog.io/write?id=f9ebc433-03bc-417c-8a32-e7c635e1110e)
