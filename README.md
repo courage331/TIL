@@ -4,7 +4,7 @@
 ---
 >모르는 내용, 짧은 지식을 기록하자
 
->ㅁ
+>하루에 하나씩!
 
 >ㅁ
 ---
@@ -24,3 +24,5 @@
 [클라우드 서비스 유형](https://velog.io/@courage331/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%9C%A0%ED%98%95)
 
 [Static](https://velog.io/@courage331/Static)
+
+[디자인 패턴](https://velog.io/@courage331/%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4)
