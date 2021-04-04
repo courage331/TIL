@@ -43,6 +43,6 @@
 
 [Swagger](https://velog.io/@courage331/Swagger)
 
-[String, StringBuffer, StringBuilder](https://velog.io/@courage331/String-StringBuffer-StringBuilder
+[String, StringBuffer, StringBuilder](https://velog.io/@courage331/String-StringBuffer-StringBuilder)
 
 [Greedy 알고리즘](https://velog.io/@courage331/Greedy-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
