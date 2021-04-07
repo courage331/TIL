@@ -52,3 +52,5 @@
 [페이지 교체 알고리즘](https://velog.io/@courage331/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%90%EC%B2%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 [GET vs POST](https://velog.io/@courage331/Get%EB%B0%A9%EC%8B%9D-Post%EB%B0%A9%EC%8B%9D)
+
+[Optional Class](https://velog.io/@courage331/Optional-Class)
