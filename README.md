@@ -62,3 +62,5 @@
 [JPA Specification](https://velog.io/@courage331/JPA-Specification)
 
 [ssh](https://velog.io/@courage331/ssh)
+
+[POJO](https://velog.io/@courage331/POJO)
