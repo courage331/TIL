@@ -65,4 +65,4 @@
 
 [POJO](https://velog.io/@courage331/POJO)
 
-[GSON](https://velog.io/@courage331/Gson-RestTemplate)
+[GSON,RestTemplate](https://velog.io/@courage331/Gson-RestTemplate)
