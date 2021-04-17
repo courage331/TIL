@@ -64,3 +64,5 @@
 [ssh](https://velog.io/@courage331/ssh)
 
 [POJO](https://velog.io/@courage331/POJO)
+
+[GSON](https://velog.io/@courage331/Gson-RestTemplate)
