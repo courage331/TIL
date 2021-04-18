@@ -66,3 +66,5 @@
 [POJO](https://velog.io/@courage331/POJO)
 
 [GSON,RestTemplate](https://velog.io/@courage331/Gson-RestTemplate)
+
+[JPA Query In](https://velog.io/@courage331/JPA-Query)
