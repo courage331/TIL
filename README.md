@@ -70,3 +70,5 @@
 [JPA Query In](https://velog.io/@courage331/JPA-Query)
 
 [JPA](https://velog.io/@courage331/JPA-nds7ejau)
+
+[캐싱 ](https://velog.io/@courage331/%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
