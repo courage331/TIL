@@ -71,4 +71,6 @@
 
 [JPA](https://velog.io/@courage331/JPA-nds7ejau)
 
-[캐싱 ](https://velog.io/@courage331/%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
+[캐싱 전략](https://velog.io/@courage331/%EC%BA%90%EC%8B%B1-%EC%A0%84%EB%9E%B5)
+
+[String 안에 ArrayList 넣기](https://velog.io/@courage331/%EB%B0%B0%EC%97%B4%EC%95%88%EC%97%90-ArrayList-%EB%84%A3%EA%B8%B0)
