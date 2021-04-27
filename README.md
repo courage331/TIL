@@ -75,6 +75,8 @@
 
 [String 안에 ArrayList 넣기](https://velog.io/@courage331/%EB%B0%B0%EC%97%B4%EC%95%88%EC%97%90-ArrayList-%EB%84%A3%EA%B8%B0)
 
+[10진수를 2](https://velog.io/@courage331/10%EC%A7%84%EC%88%98%EB%A5%BC-2%EC%A7%84%EC%88%98%EB%A1%9C)
+
 [Spring과 SpringBoot 차이](https://velog.io/@courage331/Spring-%EA%B3%BC-Spring-Boot-%EC%B0%A8%EC%9D%B4)
 
 [직렬화](https://velog.io/@courage331/%EC%A7%81%EB%A0%AC%ED%99%94)
