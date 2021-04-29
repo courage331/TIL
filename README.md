@@ -80,3 +80,5 @@
 [Spring과 SpringBoot 차이](https://velog.io/@courage331/Spring-%EA%B3%BC-Spring-Boot-%EC%B0%A8%EC%9D%B4)
 
 [직렬화](https://velog.io/@courage331/%EC%A7%81%EB%A0%AC%ED%99%94)
+
+[Deque](https://velog.io/@courage331/Deque)
