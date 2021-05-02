@@ -83,4 +83,7 @@
 
 [Deque](https://velog.io/@courage331/Deque)
 
-[](https://velog.io/@courage331/%EB%B9%8C%EB%93%9C%EB%9E%80)
+[빌드](https://velog.io/@courage331/%EB%B9%8C%EB%93%9C%EB%9E%80)
+
+[완전 탐색 알고리즘](https://velog.io/@courage331/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
