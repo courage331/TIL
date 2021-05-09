@@ -6,7 +6,7 @@
 
 >하루에 하나씩!
 
->ㅁ
+>ㅁㅁ
 ---
 
 [Redis](https://velog.io/@courage331?tag=redis)
