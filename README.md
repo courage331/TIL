@@ -118,3 +118,5 @@
 [Docker](https://velog.io/@courage331/%EB%8F%84%EC%BB%A4Docker)
 
 [HTTP](https://velog.io/@courage331/HTTP%EB%9E%80)
+
+[ElasticSearch 장점](https://velog.io/@courage331/Elastic-Search%EB%9E%80-%EC%9E%A5%EC%A0%90)
