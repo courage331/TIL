@@ -120,3 +120,5 @@
 [HTTP](https://velog.io/@courage331/HTTP%EB%9E%80)
 
 [ElasticSearch 장점](https://velog.io/@courage331/Elastic-Search%EB%9E%80-%EC%9E%A5%EC%A0%90)
+
+[브라우저와 작동원리](https://velog.io/@courage331/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%99%80-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC)
