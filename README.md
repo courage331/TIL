@@ -125,3 +125,4 @@
 
 [호스팅이란?](https://velog.io/@courage331/%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80)
 
+[Linux grep](https://velog.io/@courage331/Linux-%ED%8C%8C%EC%9D%BC-%EB%B0%8F-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B2%80%EC%83%89-wcgrep-egrep-fgrep)
