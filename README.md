@@ -128,3 +128,5 @@
 [Linux grep](https://velog.io/@courage331/Linux-%ED%8C%8C%EC%9D%BC-%EB%B0%8F-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B2%80%EC%83%89-wcgrep-egrep-fgrep)
 
 [도메인 네임](https://velog.io/@courage331/%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%84%A4%EC%9E%84Domain-Name)
+
+[Kafka](https://velog.io/@courage331/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka)
