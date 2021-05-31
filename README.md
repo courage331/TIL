@@ -130,3 +130,5 @@
 [도메인 네임](https://velog.io/@courage331/%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%84%A4%EC%9E%84Domain-Name)
 
 [Kafka](https://velog.io/@courage331/%EC%B9%B4%ED%94%84%EC%B9%B4Kafka)
+
+[CORS](https://velog.io/@courage331/CORS)
