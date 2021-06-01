@@ -133,4 +133,4 @@
 
 [CORS](https://velog.io/@courage331/CORS)
 
-[POSIX[(https://velog.io/@courage331/POSIX)
+[POSIX](https://velog.io/@courage331/POSIX)
