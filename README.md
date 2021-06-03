@@ -136,3 +136,5 @@
 [POSIX](https://velog.io/@courage331/POSIX)
 
 [DNS의 원리](https://velog.io/@courage331/DNS-%EA%B8%B0%EB%B3%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+
+[Kafka - Partition과 Consumer의 수](https://velog.io/@courage331/Kafka-Partition%EA%B3%BC-Consumer%EC%9D%98-%EA%B4%80%EA%B3%84)
