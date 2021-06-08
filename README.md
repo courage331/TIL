@@ -140,3 +140,5 @@
 [Kafka - Partition과 Consumer의 수](https://velog.io/@courage331/Kafka-Partition%EA%B3%BC-Consumer%EC%9D%98-%EA%B4%80%EA%B3%84)
 
 [Springboot ElasticSearch yml 설정](https://velog.io/@courage331/SpringBoot-ElasticSearch-Config)
+
+[Springboot Mysql yml ](https://velog.io/@courage331/SpringBoot-Mysql-Config)
