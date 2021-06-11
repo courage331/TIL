@@ -146,3 +146,5 @@
 [LCS(최장 공통 수열 알고리즘)](https://velog.io/@courage331/LCS%EC%B5%9C%EC%9E%A5-%EA%B3%B5%ED%86%B5-%EC%88%98%EC%97%B4-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 [Subquery](https://velog.io/@courage331/SubQuery)
+
+[Mysql Like,Regexp](https://velog.io/@courage331/MySQL-Like-Regexp)
