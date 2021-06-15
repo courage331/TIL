@@ -148,3 +148,5 @@
 [Subquery](https://velog.io/@courage331/SubQuery)
 
 [Mysql Like,Regexp](https://velog.io/@courage331/MySQL-Like-Regexp)
+
+[OSI 7계층](https://velog.io/@courage331/OSI-7%EA%B3%84%EC%B8%B5)
