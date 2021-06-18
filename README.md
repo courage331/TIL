@@ -6,7 +6,7 @@
 
 >하루에 하나씩!
 
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=courage331)](https://velog.io/@courage331)
+>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331)
 ---
 
 [Redis](https://velog.io/@courage331?tag=redis)
