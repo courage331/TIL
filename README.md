@@ -1,13 +1,14 @@
 # TIL
-출처: https://velog.io/@courage331 
+출처: [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331) 
+
+https://velog.io/@courage331 
 ---
 ---
 >모르는 내용, 짧은 지식을 기록하자
 
 >하루에 하나씩!
 
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331) 
-
+> 최신글 
 >[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331)](https://github.com/courage331/TIL)
 
 ---
