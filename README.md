@@ -1,7 +1,7 @@
 # TIL
 출처: 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331) [](https://velog.io/@courage331)
+[링크 : ](https://velog.io/@courage331)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=minzikim)](https://velog.io/@courage331) 
 ---
 ---
 >모르는 내용, 짧은 지식을 기록하자
