@@ -157,3 +157,5 @@
 [OSI 7계층](https://velog.io/@courage331/OSI-7%EA%B3%84%EC%B8%B5)
 
 [스레드와 프로세스의 ](https://velog.io/@courage331/%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+[프로세스 동기화란?](https://velog.io/@courage331/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8F%99%EA%B8%B0%ED%99%94)
