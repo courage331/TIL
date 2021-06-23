@@ -10,7 +10,7 @@
 
 > 최신글 
 > 
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331)](https://github.com/courage331/TIL)
+>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=courage331)](https://velog.io/@courage331)
 
 ---
 
