@@ -162,4 +162,6 @@
 
 [컨텍스트 스위칭](https://velog.io/@courage331/%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%8A%A4%EC%9C%84%EC%B9%AD)
 
-[세마포어, ](https://velog.io/@courage331/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4-%EB%AE%A4%ED%85%8D%EC%8A%A4)
+[세마포어,뮤텍스](https://velog.io/@courage331/%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4-%EB%AE%A4%ED%85%8D%EC%8A%A4)
+
+[캐시의 지역성](https://velog.io/@courage331/%EC%BA%90%EC%8B%9C%EC%9D%98-%EC%A7%80%EC%97%AD%EC%84%B1Locality)
