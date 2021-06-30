@@ -169,3 +169,5 @@
 [가상 메모리](https://velog.io/@courage331/%EA%B0%80%EC%83%81-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%9E%80)
 
 [Kafka Rebalancing](https://velog.io/@courage331/Kafka-%EB%A6%AC%EB%B0%B8%EB%9F%B0%EC%8B%B1Rebalancing)
+
+[페이징, 세그멘테이션](https://velog.io/@courage331/%ED%8E%98%EC%9D%B4%EC%A7%95-%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98)
