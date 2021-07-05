@@ -175,3 +175,5 @@
 [ElasticSearch 검색 결과 보는 법](https://velog.io/@courage331/ElasticSearch-%EA%B2%80%EC%83%89-%EA%B2%B0%EA%B3%BC-%EB%B3%B4%EB%8A%94%EB%B2%95)
 
 [ElasticSearch QueryDSL을 써서 검색하기](https://velog.io/@courage331/ElasticSearch-QueryDSL%EC%9D%84-%EC%8D%A8%EC%84%9C-%EA%B2%80%EC%83%89%ED%95%98%EA%B8%B0)
+
+[Java Memory 구조](https://velog.io/@courage331/Java-Memory-%EA%B5%AC%EC%A1%B0)
