@@ -181,3 +181,5 @@
 [JPA 엔터티 복합키](https://velog.io/@courage331/JPA-Entity-%EB%B3%B5%ED%95%A9%ED%82%A4-%EC%84%A4%EC%A0%95)
 
 [정렬별 시간복잡도](https://velog.io/@courage331/%EC%A0%95%EB%A0%AC%EB%B3%84-%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84)
+
+[linux du](https://velog.io/@courage331/du-%EB%AA%85%EB%A0%B9%EC%96%B4)
