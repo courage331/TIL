@@ -183,3 +183,5 @@
 [정렬별 시간복잡도](https://velog.io/@courage331/%EC%A0%95%EB%A0%AC%EB%B3%84-%EC%8B%9C%EA%B0%84%EB%B3%B5%EC%9E%A1%EB%8F%84)
 
 [linux du](https://velog.io/@courage331/du-%EB%AA%85%EB%A0%B9%EC%96%B4)
+
+[MacOs 특정 ](https://velog.io/@courage331/MacOs-%ED%8A%B9%EC%A0%95-%ED%8F%AC%ED%8A%B8-%EC%A2%85%EB%A3%8C%ED%95%98%EA%B8%B0)
